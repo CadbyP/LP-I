@@ -3,7 +3,7 @@
 // O/P   - 9
 
 
-int IRSensor = 9                                                                                  ; // connect ir sensor module to Arduino pin 9
+int IRSensor = 9; // connect ir sensor module to Arduino pin 9
 
 
 int LED = 13; // conect LED to Arduino pin 13
