@@ -1,0 +1,6 @@
+open the terminal
+~/Desktop/image.jpg
+press enter
+OR
+libcamera hello
+libcamera test.jpg
