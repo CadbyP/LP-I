@@ -4,3 +4,13 @@ press enter
 OR
 libcamera hello
 libcamera test.jpg
+OR
+Wb cancer hello
+ 
+lib camera-jpeg.
+ 
+Cibcamera-jpeg -o testing.
+ 
+Libcameter vid -t 19,000-00042. mato streetest hasz
+OR
+raspistill -o image.jpg 
